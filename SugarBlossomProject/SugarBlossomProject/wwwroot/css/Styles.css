@@ -1,0 +1,41 @@
+﻿.center_fun {
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+
+}
+
+.image{
+
+    max-width: 400px;
+    border-radius: 30px;
+
+}
+
+i {
+    color: palevioletred;
+
+}
+
+.nav-link-custom {
+
+    color: #960e86
+
+}
+
+.left-text {
+
+    display:inline-block;
+    text-align: left;
+    width: 600px;
+
+}
+
+h2 {
+    color: #de4e7d;
+}
+
+h1 {
+    color: #de4e7d;
+}
