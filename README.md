@@ -7,6 +7,6 @@ The project was validated in Google chrome and Microsoft Edge.
 
 Skills:
   HTML, CSS,
-  .NET CORE, ASP.NET,
+  .NET, ASP.NET,
   (SDLC) Software Development Life Cycle,
   Static website
