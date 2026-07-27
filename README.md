@@ -2,7 +2,7 @@
 
 In this repository I share some of my personal projects using different programming languages:
 
--**SugarBlossom Bakery:** Project in .NET CORE to be cross platform MVC architecture pattern was used. Include Software Development Life cycle (SDLC).
+-**SugarBlossom Bakery:** Project in .NET CORE to be cross platform, MVC architecture pattern was used. Include Software Development Life cycle (SDLC).
 The project was validated in Google chrome and Microsoft Edge.
 
 ### Skills:
@@ -11,6 +11,14 @@ The project was validated in Google chrome and Microsoft Edge.
   (SDLC) Software Development Life Cycle,
   Static website,
   UI/UX
+### Summarize of Tools
+- Latex for document the final list of requirements.
+- Pencil open-source software for design and prototype.
+- visual Studio for programming.
+- Google chrome and Microsoft Edge for validation.
+- .NET CORE
+- MVC architecture pattern
+
 
 ### Results of Sugar Blossom web site
 #### Home page
