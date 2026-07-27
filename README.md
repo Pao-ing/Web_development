@@ -9,7 +9,8 @@ The project was validated in Google chrome and Microsoft Edge.
   HTML, CSS,
   .NET, ASP.NET,
   (SDLC) Software Development Life Cycle,
-  Static website
+  Static website,
+  UI/UX
 
 ### Results of Sugar Blossom web site
 #### Home page
