@@ -11,5 +11,13 @@ The project was validated in Google chrome and Microsoft Edge.
   (SDLC) Software Development Life Cycle,
   Static website
 
-### Results from the Sugar Blossom web site
-![image]()
+### Results of Sugar Blossom web site
+#### Home page
+![image](https://github.com/Pao-ing/Web_development/blob/main/Results/Home_page_SugarBlossom.png)
+
+#### Services page
+![imagen2](https://github.com/Pao-ing/Web_development/blob/main/Results/Services_SugarBlossom.png)
+
+#### Contact page
+![imagen3](https://github.com/Pao-ing/Web_development/blob/main/Results/Contact_SugarBlossom.png)
+
